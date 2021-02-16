@@ -19,10 +19,12 @@
     "express": "^4.17.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
-    "webpack": "^4.41.0",
+    "webpack": "^5.20.1",
     "webpack-cli": "^3.3.9"
   },
   "dependencies": {
-    "nodemon": "^1.19.3"
+    "axios": "^0.21.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7"
   }
 }
